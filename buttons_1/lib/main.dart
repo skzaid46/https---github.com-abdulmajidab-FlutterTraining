@@ -15,7 +15,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(  
       home: Scaffold(  
           appBar: AppBar(  
-            title: Text('Flutter FlatButton Example'),  
+            title: Text(''),  
           ),  
           body: Center(child: Column(children: <Widget>[  
             Container(  
